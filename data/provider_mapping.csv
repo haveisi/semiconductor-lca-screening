@@ -1,0 +1,14 @@
+material_or_chemical,provider_name,provider_database,status,notes
+SF6,"Sulphur hexafluoride, liquid, at plant - RER",BAFU-2026,RESOLVED,"Upstream production burden; direct emission modeled separately"
+CHF3/HFC-23,"Trifluoromethane, at plant - GLO",BAFU-2026,RESOLVED,"Used for upstream production; also used as NF3 proxy in the screening workflow"
+NH3,"Ammonia, steam reforming, liquid, at plant - RER",BAFU-2026,PROXY_RESOLVED,"Selected ammonia production route for consistency across sensitivity scenarios"
+H2O2,"Hydrogen peroxide, 50% in H2O, at plant - RER",BAFU-2026,RESOLVED,
+HCl,"Hydrochloric acid, 30% in H2O, at plant - RER",BAFU-2026,RESOLVED,
+Phenolic resin,"Phenolic resin, at plant - RER",BAFU-2026,RESOLVED,
+TMAH proxy,"Trimethylamine, at plant - RER",BAFU-2026,PROXY_RESOLVED,"Proxy only; not chemically identical to TMAH"
+HF,"Hydrogen fluoride, at plant - GLO",BAFU-2026,RESOLVED,
+HNO3,"Nitric acid, 50% in H2O, at plant - RER",BAFU-2026,RESOLVED,
+H3PO4,"Phosphoric acid, industrial grade, 85% in H2O, at plant - RER",BAFU-2026,RESOLVED,
+CH3COOH,"Acetic acid, 98% in H2O, at plant - RER",BAFU-2026,RESOLVED,
+SiH4,"Silicon tetrahydride, at plant - RER",BAFU-2026,RESOLVED,
+PGMEA,,BAFU-2026,NO_EXACT_PROVIDER,"Exact production provider not found; excluded from primary S08 scenarios"

@@ -1,0 +1,8 @@
+hotspot,modeled_gwp_kg_co2e,importance,interpretation
+Process + facility electricity,417.2851465305652,HIGH,"Electricity-related burdens across process, facility, and raw-wafer processing proxies"
+Direct F-gas emissions,104.0,HIGH,"Direct post-abatement SF6 and trifluoromethane emissions; much larger than upstream gas production"
+Process chemistry - lower bound,13.9687526523814,MEDIUM-LOW,"Ten resolved/proxy chemistry inputs; PGMEA excluded"
+Process chemistry - area-scaled sensitivity,31.4296934697030,SENSITIVITY,"Upper chemistry sensitivity using 2.25x wafer-area scaling"
+Electronic-grade silicon proxy,13.59,LOW,"Electronic-grade silicon feedstock proxy only; not a full raw-wafer chain"
+Ultrapure water,7.25,LOW,"UPW production burden"
+Upstream F-gas production,0.5666017387705,VERY LOW,"Manufacturing burden of purchased fluorinated gases; direct atmospheric release dominates"

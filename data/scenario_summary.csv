@@ -1,0 +1,10 @@
+stage,scenario_label,gwp_kg_co2e_per_wafer,incremental_gwp_kg_co2e,pct_of_4460_benchmark,scenario_type
+S01,Electricity only,169.27,169.27,3.80,BASE SCREENING
+S02,+ Ultrapure water,176.52,7.25,3.96,CUMULATIVE
+S03,+ Electronic-grade silicon proxy,190.11,13.59,4.26,CUMULATIVE
+S04,+ Direct F-gas emissions,294.11,104.00,6.59,CUMULATIVE
+S05,+ Facility / cleanroom energy,461.20,167.09,10.34,CUMULATIVE
+S06,+ Upstream F-gas production,461.7666017387705,0.5666017387705,10.35,CUMULATIVE
+S07,+ Raw-wafer processing-energy proxy,542.6917482693357,80.9251465305652,12.17,CUMULATIVE
+S08-LB,+ Process chemistry lower bound,556.6605009217171,13.9687526523814,12.48,CHEMISTRY SENSITIVITY
+S08-AREA,+ Process chemistry area-scaled,574.1214417390387,31.4296934697030,12.87,CHEMISTRY SENSITIVITY
